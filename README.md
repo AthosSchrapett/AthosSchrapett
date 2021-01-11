@@ -1,5 +1,5 @@
 <h1>Hello!!</h1>
-  <a href="https://www.linkedin.com/in/athos-louzeiro-schrapett/" target="_blank">
+  <a href="https://www.linkedin.com/in/athos-louzeiro-schrapett/">
     <img src="https://www.tmf-group.com/-/media/images/logos/case-study-logos/linkedin.png" width="70px">
   </a>
   <br>
