@@ -11,6 +11,7 @@
   <li>HTML 5</li>
   <li>CSS 3</li>
   <li>JavaScript</li>
+  <li>Angula 2+</li>
   <li>Node.JS</li>
   <li>ReactJS</li>
   <li>React Native</li>
