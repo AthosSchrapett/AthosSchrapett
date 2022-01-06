@@ -12,5 +12,5 @@
   <li>CSS 3</li>
   <li>JavaScript</li>
   <li>Angular 2+</li>
-  <li>Node.JS</li>
+  <li>C#</li>
 </ul>
