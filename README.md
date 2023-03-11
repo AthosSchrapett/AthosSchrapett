@@ -8,11 +8,11 @@
 <h2>My Skills 🧑‍💻</h2>
 
 <ul>
+  <li>C#</li>
+  <li>Angular 2+</li>
   <li>HTML 5</li>
   <li>CSS 3</li>
   <li>JavaScript</li>
-  <li>Angular 2+</li>
-  <li>C#</li>
 </ul>
 
 <hr>
