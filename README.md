@@ -21,7 +21,3 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AthosSchrapett&show_icons=true&theme=dracula" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AthosSchrapett&theme=dracula&layout=compact" />
 </div>
-
-<div>
-    <img width="100%" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
-</div>
