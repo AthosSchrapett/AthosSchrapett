@@ -17,7 +17,7 @@
 <h2>My Skills 🧑‍💻</h2>
 
 <h3>Back-end</h3>
-<a style="padding-right:8px;" href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" alt="C#" height="45" /></a>
+<a style="padding-right:8px;" href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" alt="C#" height="45" /></a>
 <a style="padding-right:8px;" href="https://dotnet.microsoft.com/en-us/" target="_blank"> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="DotNET" height="40" /></a> 
 <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
 
