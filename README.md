@@ -1,6 +1,6 @@
 <h1>Hello!!</h1>
   <br>
-<p>My name is Athos, I have a degree in IT and I am growing in knowledge, I have studied some technologies like Node.JS, Angular and C#, and now I am a Programmer in an accounting company and I use C# as my main technology. Welcome to my profile on GitHub.</p>
+<p>My name is Athos, I have a degree in IT and I am growing in knowledge, I have studied some technologies like Angular and C#, and now I am a Programmer in an accounting company and I use C# as my main technology. Welcome to my profile on GitHub.</p>
 
 ---
 
